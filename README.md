@@ -1,17 +1,54 @@
-# TP2 Python POO
+# TP2 Python POO 🐍
 
-Ce dépôt contient les exercices de Programmation Orientée Objet (POO) réalisés en Python dans le cadre du TP2.
+[![Python Version](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
 
-## Contenu
+Ce dépôt contient les exercices de **Programmation Orientée Objet (POO)** réalisés en Python dans le cadre du **TP2**.
 
-- **EXERCICE1** : Implémentation d'une classe `CompteBancaire` avec encapsulation, propriétés et validation des opérations (déposer, retirer, solde en lecture seule).  
-- **EXERCICE2** : Implémentation de la relation de composition entre `Client` et `CompteBancaire`. Chaque client possède un compte et peut afficher son solde.
+---
 
-## Utilisation
+## 📂 Contenu du projet
+
+- **EXERCICE1** :  
+  Implémentation d'une classe `CompteBancaire` avec :
+  - Attributs protégés et privés  
+  - Méthodes `deposer` et `retirer` avec validation  
+  - Propriété `solde` en lecture seule  
+
+- **EXERCICE2** :  
+  Implémentation de la **composition** entre `Client` et `CompteBancaire` :
+  - Chaque client possède un compte  
+  - Méthode `afficher()` pour voir le solde du client  
+
+---
+
+## 🚀 Utilisation
 
 1. Cloner le dépôt ou télécharger le projet.
-2. Se placer dans le dossier correspondant à l'exercice.
-3. Lancer le script Python :
-
 ```bash
-python test.py
+git clone https://github.com/M4ds1ck/TP2_Python_OOP-.git
+```
+2. Aller dans le dossier de l’exercice voulu :
+   ```bash
+   cd TP2_Python_OOP-/EXERCICE1
+   ```
+3. Lancer le script de test :
+   ```bash
+   python test.py
+   ```
+## 🖥️ Exemple d’output :
+Exercice 1
+```bash
+Titulaire : Ali, Solde : 1050€
+Solde accessible (lecture) : 1050€
+```
+Exercice 2
+```bash
+Client : Yassir, Solde : 250€
+```
+
+### Auteur :
+MOUKOUCH MAHMOUD - 2333447
+FSSM
+
+   
+   
