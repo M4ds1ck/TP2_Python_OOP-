@@ -46,9 +46,12 @@ Exercice 2
 Client : Yassir, Solde : 250€
 ```
 
-### Auteur :
-MOUKOUCH MAHMOUD - 2333447
-FSSM
+### 📌 Auteur :
+
+**Nom :** Mahmoud Moukouch  
+**GitHub :** [M4ds1ck](https://github.com/M4ds1ck)  
+**Projet :** TP2 Python POO – Exercices 1 et 2  
+
 
    
    
