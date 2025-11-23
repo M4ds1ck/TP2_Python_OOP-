@@ -45,6 +45,7 @@ Exercice 2
 ```bash
 Client : Yassir, Solde : 250€
 ```
+---
 
 ### 📌 Auteur :
 
