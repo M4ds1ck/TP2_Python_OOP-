@@ -48,7 +48,7 @@ Client : Yassir, Solde : 250€
 
 ### 📌 Auteur :
 
-**Nom :** Mahmoud Moukouch  
+**Nom :** Mahmoud Moukouch - 2333447 - m.moukouch2471@uca.ac.ma
 **GitHub :** [M4ds1ck](https://github.com/M4ds1ck)  
 **Projet :** TP2 Python POO – Exercices 1 et 2  
 
